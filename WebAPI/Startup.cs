@@ -7,8 +7,6 @@ using Cards.Application;
 using Cards.Application.Common.Mappings;
 using Cards.Application.Interfaces;
 using Cards.Persistance;
-using Cards.Application;
-using Cards.Persistance;
 
 namespace Cards.WebAPI
 {

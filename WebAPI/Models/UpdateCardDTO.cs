@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using Cards.Application.Cards.Commands.CreateCard;
 using Cards.Application.Cards.Commands.UpdateCard;
 using Cards.Application.Common.Mappings;
 
